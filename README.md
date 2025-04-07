@@ -14,9 +14,5 @@ A complete data analysis project using Python (Pandas, Matplotlib, Seaborn) on F
 - Seaborn, Matplotlib
 - Jupyter Notebook
 
-## 📷 Screenshots
-*(add chart images if you want)*
 
-## 📎 Dataset
-- Provided internally (Not publicly available)
 
